@@ -1,0 +1,2 @@
+# gushmazuko
+Para metasploit
